@@ -2,16 +2,14 @@
   <a href="https://github.com/Spjoerng">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2DD4BF&fontSize=36&height=64&width=858&text=Hello!%20I'm%20TLCastroverde" alt="Hello! I&#39;m TLCastroverde" />
   </a>
-  <br />
-  IT student drawn to tech through game design. Almost an art major.
-</p>
-
-<p align="center">
+  <br>
   <a href="https://www.linkedin.com/in/tanya-ly-castroverde-381ab742a"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tanyalycastroverde@gmail.com"><img src="https://img.shields.io/badge/Email-155E75?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
+  IT student drawn to tech through game design. Almost an art major.
+  <br>
   <strong>Currently building:</strong> a localized commuting app and its admin web portal for my final thesis.
 </p>
 
