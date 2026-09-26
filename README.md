@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  IT student drawn to tech through game development. Almost an art major.
+  IT student drawn to tech through game development—I was supposed to be in multimedia arts.
   <br>
-  <strong>Currently building:</strong> a localized commuting app and its admin web portal for my final thesis.
+  <strong>Currently building:</strong> a localized mobile commuting app and its admin web portal for my final thesis.
 </p>
 
 ### Tech Stack
