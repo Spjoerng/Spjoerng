@@ -32,8 +32,8 @@
 ### GitHub Activity
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Spjoerng&show_icons=true&theme=tokyonight&title_color=2DD4BF&text_color=94A3B8&icon_color=38BDF8&hide_border=true&bg_color=00000000&count_private=true" alt="TLCastroverde's GitHub stats" />
-  <img width="43%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Spjoerng&layout=compact&theme=tokyonight&title_color=2DD4BF&text_color=94A3B8&hide_border=true&bg_color=00000000&langs_count=6" alt="Most used languages" />
+  <img width="55%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=spjoerng&show_icons=true&theme=tokyonight&title_color=2DD4BF&text_color=94A3B8&icon_color=38BDF8&hide_border=true&bg_color=00000000&count_private=true" alt="TLCastroverde's GitHub stats" />
+  <img width="43%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=spjoerng&layout=compact&theme=tokyonight&title_color=2DD4BF&text_color=94A3B8&hide_border=true&bg_color=00000000&langs_count=6" alt="Most used languages" />
 </p>
 
 <details>
