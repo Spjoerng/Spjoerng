@@ -4,13 +4,15 @@
   </a>
   <br />
   IT student drawn to tech through game design. Almost an art major.
-  <br />
-  <strong>Currently building:</strong> a localized commuting app and its admin web portal for my final thesis.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanya-ly-castroverde-381ab742a"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tanyalycastroverde@gmail.com"><img src="https://img.shields.io/badge/Email-155E75?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <strong>Currently building:</strong> a localized commuting app and its admin web portal for my final thesis.
 </p>
 
 ### Tech Stack
