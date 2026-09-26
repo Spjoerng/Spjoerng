@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  IT student drawn to tech through game design. Almost an art major.
+  IT student drawn to tech through game development. Almost an art major.
   <br>
   <strong>Currently building:</strong> a localized commuting app and its admin web portal for my final thesis.
 </p>
